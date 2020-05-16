@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(FreeRTOS
-        VERSION 10.3.0
+        VERSION 10.3.1
         DESCRIPTION "FreeRTOS Kernel CMake Package"
         LANGUAGES C ASM)
 
